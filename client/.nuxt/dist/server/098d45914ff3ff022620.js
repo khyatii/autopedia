@@ -1,0 +1,2 @@
+exports.ids=[10],exports.modules={118:function(t,e,r){"use strict";r.r(e);var o={name:"test",layout:"autopedia/car",data:()=>({})},c=r(1);var component=Object(c.a)(o,function(){var t=this.$createElement;return(this._self._c||t)("h1",[this._ssrNode("coucou")])},[],!1,function(t){},"6394abf8","9d27d594");e.default=component.exports}};
+//# sourceMappingURL=098d45914ff3ff022620.js.map

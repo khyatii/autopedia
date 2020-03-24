@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{518:function(t,e,n){"use strict";n.r(e);var c={name:"test",layout:"autopedia/car",data:function(){return{}}},o=n(10),component=Object(o.a)(c,function(){var t=this.$createElement;return(this._self._c||t)("h1",[this._v("coucou")])},[],!1,null,"6394abf8",null);e.default=component.exports}}]);
